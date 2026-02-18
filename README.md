@@ -1,4 +1,4 @@
-<h1 align="center">👋 Olá, sou thurr</h1>
+<h1 align="center">Thurr</h1>
 
 ###
 
